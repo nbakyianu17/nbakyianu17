@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/nbakyianu17"><img src="https://komarev.com/ghpvc/?username=nbakyianu17&style=flat-square&color=7F00FF&label=PROFILE+VIEWS" alt="Profile views" /></a>
+   
 </p>
 
 ---
