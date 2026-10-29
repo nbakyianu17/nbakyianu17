@@ -65,20 +65,20 @@ I'm a Software Engineering student at **Drexel University** (Finance minor, 3.6 
 <tr>
 <td width="50%" valign="top">
 
-### ♠️ StackRisk - Poker Equity & Risk Engine
+### ♠️ [StackRisk - Poker Equity & Risk Engine](https://github.com/nbakyianu17/stackrisk)
 
-Building a **C++20 Monte Carlo engine** for Texas Hold'em equity, split-pot, and bankroll-risk estimates. The design uses seeded randomness for repeatable runs and targets 100,000 deals per scenario with 95% confidence intervals.
+A C++20 Texas Hold'em simulator with tested hand evaluation, seeded equity estimates, and serial/parallel results. Bankroll-risk analysis remains planned.
 
 `C++20` `CMake` `Monte Carlo` `Regression tests`
 
 </td>
 <td width="50%" valign="top">
 
-### 🏋️ Workout Form Coach
+### 🏋️ [Workout Form Coach](https://github.com/nbakyianu17/workout-form-coach)
 
-Prototyping a squat-counter pipeline: YOLOv5 person detection, MediaPipe pose landmarks, and a 3-state knee-angle model. Evaluation is planned across labeled clips with rep-count error, missed detections, and FPS reporting.
+The current prototype includes a visibility-aware squat counter and CSV evaluation harness. YOLOv5/MediaPipe video integration and results on real labeled clips are still future work.
 
-`PyTorch` `YOLOv5` `MediaPipe` `pandas`
+`Python` `State machine` `CSV evaluation`
 
 </td>
 </tr>
