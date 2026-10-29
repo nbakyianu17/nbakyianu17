@@ -111,13 +111,6 @@ A Streamlit app that schedules priority-based care tasks across multiple pets, f
 
 ---
 
-## 📊 GitHub at a glance
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nbakyianu17&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub contribution stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbakyianu17&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Most-used GitHub languages" />
-</p>
-
 <p align="center"><i>Build it. Test it. Explain it. Question it.</i></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:E100FF,100:7F00FF&height=120&section=footer" width="100%" alt="" />
