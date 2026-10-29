@@ -1,9 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:E100FF,100:00D4FF&height=220&section=header&text=Nana%20Banyin%20Akyianu&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20%40%20Drexel%20%E2%80%A2%20AI%20%2B%20Backend%20%2B%20Fintech&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="Nana Banyin Akyianu — Software Engineering at Drexel" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:E100FF,100:00D4FF&height=220&section=header&text=Nana%20Banyin%20Akyianu&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20%40%20Drexel%20%E2%80%A2%20AI%20%2B%20Backend%20%2B%20Fintech&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="Nana Banyin Akyianu - Software Engineering at Drexel" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nana-banyin-akyianu"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:na959@drexel.edu"><img src="https://img.shields.io/badge/Email-Let%27s%20talk-E100FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/Seeking-Spring%2FSummer%202027%20Co--op-00D4FF?style=for-the-badge&logo=rocket&logoColor=white" alt="Seeking a Spring or Summer 2027 co-op" />
 </p>
 
 <p align="center">
@@ -14,12 +13,12 @@
 
 ## 👋 About Me
 
-I'm a Software Engineering student at **Drexel University** (Finance minor, 3.6 GPA), graduating in **June 2028**. I like building dependable software where **AI, backend systems, and finance** meet—from grounded retrieval pipelines to tested fintech APIs.
+I'm a Software Engineering student at **Drexel University** (Finance minor, 3.6 GPA), graduating in **June 2028**. I like building dependable software where **AI, backend systems, and finance** meet, from grounded retrieval pipelines to tested fintech APIs.
 
 - 🧠 **AI engineering:** Python RAG pipelines, semantic search, guardrails, and safe fallbacks
 - 🏦 **Backend & fintech:** REST API development, request validation, automated regression testing
 - 🛡️ **Reliability:** infrastructure monitoring, security alert analysis, and clear technical docs
-- 📍 Philadelphia, PA · Seeking a **Spring/Summer 2027 co-op** in software, AI, or fintech engineering
+- 📍 Philadelphia, PA
 
 <details>
 <summary><b>Selected impact</b></summary>
@@ -66,7 +65,7 @@ I'm a Software Engineering student at **Drexel University** (Finance minor, 3.6 
 <tr>
 <td width="50%" valign="top">
 
-### ♠️ StackRisk — Poker Equity & Risk Engine
+### ♠️ StackRisk - Poker Equity & Risk Engine
 
 Building a **C++20 Monte Carlo engine** for Texas Hold'em equity, split-pot, and bankroll-risk estimates. The design uses seeded randomness for repeatable runs and targets 100,000 deals per scenario with 95% confidence intervals.
 
@@ -86,7 +85,7 @@ Prototyping a squat-counter pipeline: YOLOv5 person detection, MediaPipe pose la
 <tr>
 <td width="50%" valign="top">
 
-### 🃏 [VTCG — Trading Card Platform](https://github.com/jotchh/vtcg)
+### 🃏 [VTCG - Trading Card Platform](https://github.com/jotchh/vtcg)
 
 Team-built platform for collecting cards, opening packs, building decks, and trading. I built the **login and account authentication** flows, including password hashing, server-side sessions, form validation, and automated tests.
 
